@@ -1,4 +1,3 @@
-yaml
 manifest:
   remotes:
     - name: zmkfirmware
